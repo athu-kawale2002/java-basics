@@ -1,5 +1,6 @@
 *.class
 *.dll
 *.bak
+*.exe
 nppBackup/
 server/
